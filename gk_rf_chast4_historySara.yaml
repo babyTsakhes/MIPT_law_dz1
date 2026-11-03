@@ -1,0 +1,2072 @@
+# История правок НПА (автоизвлечение)
+# Источник: КонсультантПлюс | Извлечено: 2026-10-09
+document:
+  title: "Гражданский кодекс Российской Федерации (часть четвёртая)"
+  short_title: "ГК РФ ч.4"
+  type: "Кодекс"
+  number: "от 18.12.2006 N 230-ФЗ"
+  original_date: "2006-12-18"
+  last_modified: "2025-07-23"
+  current_redaction: "от 23.07.2025 (с изм. и доп., вступ. в силу с 04.01.2026)"
+  prepared_redaction: "от 04.08.2026"
+  source_url: "https://www.consultant.ru/document/cons_doc_LAW_64629/4f084f0ca9455af0c226715f0cc1ca3059d43411/"
+  review_url: "https://www.consultant.ru/document/cons_doc_LAW_76298/"
+  amending_documents_count: 49
+amendments:
+  - amendment_id: 1
+    date: "2007-12-01"
+    source_document: "Федеральный закон"
+    source_number: "N 318-ФЗ"
+    source_url: "https://www.consultant.ru/document/cons_doc_LAW_140315/11914d877cee9b491e32f855edfde9c36625c38d/#dst100157"
+    changes_count: 1
+    changes:
+      - article: "1401"
+        type: "modification"
+        description: "Изменение пункта 2 статьи 1401"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+  - amendment_id: 2
+    date: "2008-06-30"
+    source_document: "Федеральный закон"
+    source_number: "N 104-ФЗ"
+    source_url: "https://www.consultant.ru/document/cons_doc_LAW_77977/#dst100008"
+    changes_count: 1
+    changes:
+      - article: "1249"
+        type: "modification"
+        description: "Изменение абзаца второго пункта 2 статьи 1249"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+  - amendment_id: 3
+    date: "2008-11-08"
+    source_document: "Федеральный закон"
+    source_number: "N 201-ФЗ"
+    source_url: "https://www.consultant.ru/document/cons_doc_LAW_81350/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009"
+    changes_count: 3
+    changes:
+      - article: "1473"
+        type: "modification"
+        description: "Изменение подпункта 1 пункта 4 статьи 1473"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1473"
+        type: "modification"
+        description: "Абзац восьмой пункта 4 статьи 1473 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1473"
+        type: "modification"
+        description: "Абзац девятый пункта 4 статьи 1473 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+  - amendment_id: 4
+    date: "2010-02-21"
+    source_document: "Федеральный закон"
+    source_number: "N 13-ФЗ"
+    source_url: "https://www.consultant.ru/document/cons_doc_LAW_97699/#dst100008"
+    changes_count: 1
+    changes:
+      - article: "1490"
+        type: "deletion"
+        description: "Пункт 2 статьи 1490 - исключен."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+  - amendment_id: 5
+    date: "2010-02-24"
+    source_document: "Федеральный закон"
+    source_number: "N 17-ФЗ"
+    source_url: "https://www.consultant.ru/document/cons_doc_LAW_97768/#dst100008"
+    changes_count: 1
+    changes:
+      - article: "1501"
+        type: "modification"
+        description: "Изменение статьи 1501"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+  - amendment_id: 6
+    date: "2010-10-04"
+    source_document: "Федеральный закон"
+    source_number: "N 259-ФЗ"
+    source_url: "https://www.consultant.ru/document/cons_doc_LAW_105390/#dst100008"
+    changes_count: 7
+    changes:
+      - article: "1229"
+        type: "modification"
+        description: "Пункт 5 статьи 1229 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1273"
+        type: "modification"
+        description: "Абзац первый статьи 1273 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1273"
+        type: "addition"
+        description: "Дополнение статьи 1273 пунктом 2."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1299"
+        type: "modification"
+        description: "Изменение пункта 3 статьи 1299"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1362"
+        type: "addition"
+        description: "Дополнение пункта 1 статьи 1362 абзацем."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1483"
+        type: "modification"
+        description: "Изменение подпункта 3 пункта 9 статьи 1483"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1516"
+        type: "addition"
+        description: "Дополнение пункта 1 статьи 1516 абзацем."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+  - amendment_id: 7
+    date: "2011-12-08"
+    source_document: "Федеральный закон"
+    source_number: "N 422-ФЗ"
+    source_url: "https://www.consultant.ru/document/cons_doc_LAW_164885/30b3f8c55f65557c253227a65b908cc075ce114a/#dst100088"
+    changes_count: 1
+    changes:
+      - article: "1486"
+        type: "modification"
+        description: "Изменение пункта 1 статьи 1486"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+  - amendment_id: 8
+    date: "2013-07-02"
+    source_document: "Федеральный закон"
+    source_number: "N 185-ФЗ"
+    source_url: "https://www.consultant.ru/document/cons_doc_LAW_544591/d77f8a874cb8442a14e07f0eda347cba8e5f3fb7/#dst101668"
+    changes_count: 1
+    changes:
+      - article: "1275"
+        type: "modification"
+        description: "Изменение подпункта 2 пункта 1 статьи 1275"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+  - amendment_id: 9
+    date: "2013-07-02"
+    source_document: "Федеральный закон"
+    source_number: "N 187-ФЗ"
+    source_url: "https://www.consultant.ru/document/cons_doc_LAW_160239/ad890e68b83c920baeae9bb9fdc9b94feb1af0ad/#dst100056"
+    changes_count: 2
+    changes:
+      - article: "1253.1"
+        type: "addition"
+        description: "Дополнение статьей 1253.1."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1302"
+        type: "addition"
+        description: "Дополнение статьи 1302 пунктом 3."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+  - amendment_id: 10
+    date: "2013-07-23"
+    source_document: "Федеральный закон"
+    source_number: "N 222-ФЗ"
+    source_url: "https://www.consultant.ru/document/cons_doc_LAW_149668/#dst100008"
+    changes_count: 3
+    changes:
+      - article: "1246"
+        type: "addition"
+        description: "Дополнение статьи 1246 пунктом 5."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1286"
+        type: "deletion"
+        description: "Абзац третий пункта 4 статьи 1286 - исключен."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1370"
+        type: "deletion"
+        description: "Абзац четвертый пункта 4 статьи 1370 - исключен."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+  - amendment_id: 11
+    date: "2014-03-12"
+    source_document: "Федеральный закон"
+    source_number: "N 35-ФЗ"
+    source_url: "https://www.consultant.ru/document/cons_doc_LAW_160073/30b3f8c55f65557c253227a65b908cc075ce114a/#dst100022"
+    changes_count: 57
+    changes:
+      - article: "1233"
+        type: "modification"
+        description: "Пункт 5 статьи 1233 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1274"
+        type: "modification"
+        description: "Пункт 2 статьи 1274 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: null
+        type: "modification"
+        description: "Статья 1275 - изложена в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: null
+        type: "modification"
+        description: "Статья 1363 - изложена в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1406.1"
+        type: "addition"
+        description: "Дополнение статьей 1406.1."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1227"
+        type: "modification"
+        description: "Изменение наименования статьи 1227"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1227"
+        type: "modification"
+        description: "Изменение пункта 1 статьи 1227"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1227"
+        type: "modification"
+        description: "Изменение пункта 2 статьи 1227"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1227"
+        type: "addition"
+        description: "Дополнение статьи 1227 пунктом 3."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1229"
+        type: "modification"
+        description: "Пункт 3 статьи 1229 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1229"
+        type: "modification"
+        description: "Пункт 4 статьи 1229 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1231.1"
+        type: "addition"
+        description: "Дополнение статьей 1231.1."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1232"
+        type: "addition"
+        description: "Дополнение пункта 1 статьи 1232 абзацами."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1232"
+        type: "modification"
+        description: "Пункт 3 статьи 1232 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1232"
+        type: "modification"
+        description: "Изменение пункта 4 статьи 1232"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1232"
+        type: "modification"
+        description: "Пункт 6 статьи 1232 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1234"
+        type: "modification"
+        description: "Пункт 2 статьи 1234 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1234"
+        type: "addition"
+        description: "Дополнение пункта 3 статьи 1234 абзацем."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1234"
+        type: "addition"
+        description: "Дополнение статьи 1234 пунктом 3.1."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1234"
+        type: "modification"
+        description: "Пункт 4 статьи 1234 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1234"
+        type: "modification"
+        description: "Абзац второй пункта 5 статьи 1234 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1235"
+        type: "modification"
+        description: "Пункт 2 статьи 1235 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1235"
+        type: "addition"
+        description: "Дополнение пункта 5 статьи 1235 абзацем."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1235"
+        type: "addition"
+        description: "Дополнение статьи 1235 пунктом 5.1."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1235"
+        type: "modification"
+        description: "Изменение подпункта 1 пункта 6 статьи 1235"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1236"
+        type: "addition"
+        description: "Дополнение статьи 1236 пунктом 1.1."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1237"
+        type: "modification"
+        description: "Пункт 1 статьи 1237 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1237"
+        type: "modification"
+        description: "Пункт 4 статьи 1237 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1240"
+        type: "modification"
+        description: "Изменение абзаца первого пункта 1 статьи 1240"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1243"
+        type: "modification"
+        description: "Пункт 1 статьи 1243 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1243"
+        type: "addition"
+        description: "Дополнение статьи 1243 пунктом 6."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1244"
+        type: "modification"
+        description: "Подпункт 1 пункта 1 статьи 1244 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1244"
+        type: "modification"
+        description: "Подпункт 2 пункта 1 статьи 1244 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: null
+        type: "modification"
+        description: "Статья 1246 - изложена в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1247"
+        type: "modification"
+        description: "Изменение пункта 1 статьи 1247"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1247"
+        type: "modification"
+        description: "Изменение абзаца второго пункта 2 статьи 1247"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1247"
+        type: "modification"
+        description: "Изменение абзаца третьего пункта 2 статьи 1247"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1248"
+        type: "modification"
+        description: "Изменение пункта 3 статьи 1248"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1249"
+        type: "modification"
+        description: "Изменение пункта 1 статьи 1249"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: null
+        type: "modification"
+        description: "Статья 1250 - изложена в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1251"
+        type: "modification"
+        description: "Изменение пункта 2 статьи 1251"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1252"
+        type: "modification"
+        description: "Пункт 1 статьи 1252 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1252"
+        type: "modification"
+        description: "Пункт 2 статьи 1252 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1252"
+        type: "modification"
+        description: "Абзац третий пункта 3 статьи 1252 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1252"
+        type: "modification"
+        description: "Пункт 6 статьи 1252 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1252"
+        type: "addition"
+        description: "Дополнение статьи 1252 пунктом 6.1."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: null
+        type: "modification"
+        description: "Статья 1253 - изложена в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1254"
+        type: "modification"
+        description: "Изменение статьи 1254"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1255"
+        type: "modification"
+        description: "Изменение пункта 3 статьи 1255"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1257"
+        type: "modification"
+        description: "Изменение статьи 1257"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1260"
+        type: "modification"
+        description: "Изменение абзаца первого пункта 2 статьи 1260"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1262"
+        type: "deletion"
+        description: "Абзац пятый пункта 2 статьи 1262 - исключен."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1262"
+        type: "modification"
+        description: "Изменение абзаца второго пункта 3 статьи 1262"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1262"
+        type: "modification"
+        description: "Пункт 5 статьи 1262 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1262"
+        type: "addition"
+        description: "Дополнение статьи 1262 пунктом 5.1."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1263"
+        type: "modification"
+        description: "Пункт 3 статьи 1263 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1263"
+        type: "modification"
+        description: "Пункт 4 статьи 1263 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+  - amendment_id: 12
+    date: "2014-12-31"
+    source_document: "Федеральный закон"
+    source_number: "N 530-ФЗ"
+    source_url: "https://www.consultant.ru/document/cons_doc_LAW_471849/ad890e68b83c920baeae9bb9fdc9b94feb1af0ad/#dst100096"
+    changes_count: 1
+    changes:
+      - article: "1252"
+        type: "modification"
+        description: "Изменение пункта 5 статьи 1252"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+  - amendment_id: 13
+    date: "2015-06-29"
+    source_document: "Федеральный закон"
+    source_number: "N 205-ФЗ"
+    source_url: "https://www.consultant.ru/document/cons_doc_LAW_181855/30b3f8c55f65557c253227a65b908cc075ce114a/#dst100092"
+    changes_count: 2
+    changes:
+      - article: "1259"
+        type: "modification"
+        description: "Изменение абзаца одиннадцатого пункта 1 статьи 1259"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1259"
+        type: "modification"
+        description: "Изменение пункта 5 статьи 1259"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+  - amendment_id: 14
+    date: "2015-07-13"
+    source_document: "Федеральный закон"
+    source_number: "N 216-ФЗ"
+    source_url: "https://www.consultant.ru/document/cons_doc_LAW_436354/4e7c454febb18a75f99a0e0a1256de288dbd7129/#dst100164"
+    changes_count: 1
+    changes:
+      - article: "1401"
+        type: "modification"
+        description: "Изменение пункта 2 статьи 1401"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+  - amendment_id: 15
+    date: "2015-11-28"
+    source_document: "Федеральный закон"
+    source_number: "N 342-ФЗ"
+    source_url: "https://www.consultant.ru/document/cons_doc_LAW_189531/#dst100008"
+    changes_count: 3
+    changes:
+      - article: "1244"
+        type: "modification"
+        description: "Изменение подпункта 2 пункта 1 статьи 1244"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1263"
+        type: "modification"
+        description: "Изменение пункта 3 статьи 1263"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1274"
+        type: "modification"
+        description: "Изменение подпункта 6 пункта 1 статьи 1274"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+  - amendment_id: 16
+    date: "2015-11-28"
+    source_document: "Федеральный закон"
+    source_number: "N 358-ФЗ"
+    source_url: "https://www.consultant.ru/document/cons_doc_LAW_201408/707fa15f83b08460bda25bf3ee28aeb05ede183f/#dst100159"
+    changes_count: 3
+    changes:
+      - article: "1244"
+        type: "modification"
+        description: "Изменение подпункта 2 пункта 1 статьи 1244"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1263"
+        type: "modification"
+        description: "Изменение пункта 3 статьи 1263"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1274"
+        type: "modification"
+        description: "Изменение подпункта 6 пункта 1 статьи 1274"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+  - amendment_id: 17
+    date: "2015-12-30"
+    source_document: "Федеральный закон"
+    source_number: "N 431-ФЗ"
+    source_url: "https://www.consultant.ru/document/cons_doc_LAW_511736/221746d26ba4337284aad3e14adab29550efdffc/#dst100201"
+    changes_count: 1
+    changes:
+      - article: "1259"
+        type: "modification"
+        description: "Изменение абзаца одиннадцатого пункта 1 статьи 1259"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+  - amendment_id: 18
+    date: "2016-07-03"
+    source_document: "Федеральный закон"
+    source_number: "N 314-ФЗ"
+    source_url: "https://www.consultant.ru/document/cons_doc_LAW_200685/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009"
+    changes_count: 2
+    changes:
+      - article: "1294"
+        type: "modification"
+        description: "Изменение абзаца первого пункта 1 статьи 1294"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1294"
+        type: "modification"
+        description: "Изменение абзаца второго пункта 1 статьи 1294"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+  - amendment_id: 19
+    date: "2017-03-28"
+    source_document: "Федеральный закон"
+    source_number: "N 43-ФЗ"
+    source_url: "https://www.consultant.ru/document/cons_doc_LAW_214516/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009"
+    changes_count: 5
+    changes:
+      - article: "1304"
+        type: "modification"
+        description: "Подпункт 1 пункта 1 статьи 1304 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1313"
+        type: "modification"
+        description: "Изменение статьи 1313"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1315"
+        type: "modification"
+        description: "Подпункт 4 пункта 1 статьи 1315 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1317"
+        type: "addition"
+        description: "Дополнение пункта 2 статьи 1317 подпунктом 10."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1318"
+        type: "modification"
+        description: "Пункт 1 статьи 1318 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+  - amendment_id: 20
+    date: "2017-07-01"
+    source_document: "Федеральный закон"
+    source_number: "N 147-ФЗ"
+    source_url: "https://www.consultant.ru/document/cons_doc_LAW_219029/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009"
+    changes_count: 2
+    changes:
+      - article: "1252"
+        type: "addition"
+        description: "Дополнение статьи 1252 пунктом 5.1."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1486"
+        type: "modification"
+        description: "Пункт 1 статьи 1486 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+  - amendment_id: 21
+    date: "2017-11-14"
+    source_document: "Федеральный закон"
+    source_number: "N 319-ФЗ"
+    source_url: "https://www.consultant.ru/document/cons_doc_LAW_282613/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009"
+    changes_count: 6
+    changes:
+      - article: "1243"
+        type: "modification"
+        description: "Абзац второй пункта 1 статьи 1243 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1243"
+        type: "modification"
+        description: "Изменение абзаца второго пункта 4 статьи 1243"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1243"
+        type: "addition"
+        description: "Дополнение пункта 4 статьи 1243 абзацем."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1244"
+        type: "modification"
+        description: "Пункт 6 статьи 1244 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1244"
+        type: "addition"
+        description: "Дополнение статьи 1244 пунктом 8."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1244.1"
+        type: "addition"
+        description: "Дополнение статьей 1244.1."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+  - amendment_id: 22
+    date: "2017-12-05"
+    source_document: "Федеральный закон"
+    source_number: "N 381-ФЗ"
+    source_url: "https://www.consultant.ru/document/cons_doc_LAW_284120/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009"
+    changes_count: 1
+    changes:
+      - article: "1293"
+        type: "modification"
+        description: "Пункт 1 статьи 1293 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+  - amendment_id: 23
+    date: "2018-05-23"
+    source_document: "Федеральный закон"
+    source_number: "N 116-ФЗ"
+    source_url: "https://www.consultant.ru/document/cons_doc_LAW_298615/30b3f8c55f65557c253227a65b908cc075ce114a/#dst100020"
+    changes_count: 6
+    changes:
+      - article: "1253"
+        type: "modification"
+        description: "Изменение статьи 1253"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1286.1"
+        type: "modification"
+        description: "Изменение пункта 4 статьи 1286.1"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1352"
+        type: "modification"
+        description: "Изменение абзаца первого подпункта 2 пункта 5 статьи 1352"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1389"
+        type: "modification"
+        description: "Изменение абзаца первого пункта 1 статьи 1389"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1389"
+        type: "modification"
+        description: "Изменение абзаца второго пункта 1 статьи 1389"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1473"
+        type: "modification"
+        description: "Изменение пункта 5 статьи 1473"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+  - amendment_id: 24
+    date: "2018-12-27"
+    source_document: "Федеральный закон"
+    source_number: "N 549-ФЗ"
+    source_url: "https://www.consultant.ru/document/cons_doc_LAW_314674/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009"
+    changes_count: 10
+    changes:
+      - article: "1350"
+        type: "modification"
+        description: "Изменение абзаца четвертого пункта 2 статьи 1350"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1351"
+        type: "modification"
+        description: "Изменение абзаца второго пункта 2 статьи 1351"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1352"
+        type: "modification"
+        description: "Изменение абзаца первого пункта 4 статьи 1352"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: null
+        type: "modification"
+        description: "Изменение наименования подпараграфа 3 параграфа 5 главы 72"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1385"
+        type: "modification"
+        description: "Изменение наименования статьи 1385"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1385"
+        type: "addition"
+        description: "Дополнение статьи 1385 пунктом 4."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1392"
+        type: "modification"
+        description: "Изменение наименования статьи 1392"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1392"
+        type: "addition"
+        description: "Дополнение пункта 1 статьи 1392 абзацем."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1392"
+        type: "modification"
+        description: "Изменение пункта 2 статьи 1392"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1392"
+        type: "modification"
+        description: "Изменение пункта 3 статьи 1392"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+  - amendment_id: 25
+    date: "2019-07-18"
+    source_document: "Федеральный закон"
+    source_number: "N 177-ФЗ"
+    source_url: "https://www.consultant.ru/document/cons_doc_LAW_329271/b004fed0b70d0f223e4a81f8ad6cd92af90a7e3b/#dst100012"
+    changes_count: 1
+    changes:
+      - article: "1252"
+        type: "modification"
+        description: "Изменение абзаца первого пункта 5.1 статьи 1252"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+  - amendment_id: 26
+    date: "2019-07-26"
+    source_document: "Федеральный закон"
+    source_number: "N 230-ФЗ"
+    source_url: "https://www.consultant.ru/document/cons_doc_LAW_330028/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009"
+    changes_count: 34
+    changes:
+      - article: "1537"
+        type: "modification"
+        description: "Пункт 3 статьи 1537 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1225"
+        type: "addition"
+        description: "Дополнение пункта 1 статьи 1225 подпунктом 14.1."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1246"
+        type: "modification"
+        description: "Изменение пункта 2 статьи 1246"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1246"
+        type: "modification"
+        description: "Изменение пункта 3 статьи 1246"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1248"
+        type: "modification"
+        description: "Изменение пункта 2 статьи 1248"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1249"
+        type: "modification"
+        description: "Изменение пункта 1 статьи 1249"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1483"
+        type: "modification"
+        description: "Пункт 7 статьи 1483 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1488"
+        type: "modification"
+        description: "Изменение пункта 3 статьи 1488"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1489"
+        type: "modification"
+        description: "Изменение пункта 3 статьи 1489"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1499"
+        type: "modification"
+        description: "Изменение подпункта 2 пункта 4 статьи 1499"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1514"
+        type: "addition"
+        description: "Дополнение пункта 1 статьи 1514 подпунктом 7."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: null
+        type: "modification"
+        description: "Изменение наименования параграфа 3 главы 76"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: null
+        type: "modification"
+        description: "Подпараграф 1 параграфа 3 главы 76 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: null
+        type: "modification"
+        description: "Подпараграф 2 параграфа 3 главы 76 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: null
+        type: "modification"
+        description: "Наименование подпараграфа 3 параграфа 3 главы 76 - изложено в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: null
+        type: "modification"
+        description: "Статья 1522 - изложена в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1522.1"
+        type: "addition"
+        description: "Дополнение подпараграфа 3 параграфа 3 главы 76 статьей 1522.1. См. текст новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: null
+        type: "modification"
+        description: "Статья 1523 - изложена в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: null
+        type: "modification"
+        description: "Статья 1524 - изложена в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: null
+        type: "modification"
+        description: "Статья 1525 - изложена в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: null
+        type: "modification"
+        description: "Статья 1526 - изложена в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: null
+        type: "modification"
+        description: "Статья 1527 - изложена в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: null
+        type: "modification"
+        description: "Статья 1528 - изложена в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: null
+        type: "modification"
+        description: "Статья 1529 - изложена в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: null
+        type: "modification"
+        description: "Статья 1530 - изложена в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: null
+        type: "modification"
+        description: "Статья 1531 - изложена в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: null
+        type: "modification"
+        description: "Статья 1532 - изложена в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: null
+        type: "modification"
+        description: "Статья 1533 - изложена в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: null
+        type: "modification"
+        description: "Статья 1534 - изложена в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: null
+        type: "modification"
+        description: "Подпараграф 4 параграфа 3 главы 76 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: null
+        type: "modification"
+        description: "Изменение наименования подпараграфа 5 параграфа 3 главы 76"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1537"
+        type: "modification"
+        description: "Изменение наименования статьи 1537"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1537"
+        type: "modification"
+        description: "Пункт 1 статьи 1537 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1537"
+        type: "modification"
+        description: "Изменение подпункта 2 пункта 2 статьи 1537"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+  - amendment_id: 27
+    date: "2020-07-20"
+    source_document: "Федеральный закон"
+    source_number: "N 217-ФЗ"
+    source_url: "https://www.consultant.ru/document/cons_doc_LAW_357759/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009"
+    changes_count: 11
+    changes:
+      - article: "1262"
+        type: "modification"
+        description: "Изменение абзаца первого пункта 3 статьи 1262"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1354"
+        type: "modification"
+        description: "Изменение пункта 2 статьи 1354"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1375"
+        type: "modification"
+        description: "Изменение подпункта 4 пункта 2 статьи 1375"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1376"
+        type: "modification"
+        description: "Изменение подпункта 4 пункта 2 статьи 1376"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1377"
+        type: "modification"
+        description: "Изменение подпункта 2 пункта 2 статьи 1377"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1393"
+        type: "modification"
+        description: "Абзац второй пункта 1 статьи 1393 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1452"
+        type: "modification"
+        description: "Изменение абзаца первого пункта 5 статьи 1452"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1492"
+        type: "modification"
+        description: "Изменение подпункта 2 пункта 3 статьи 1492"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1504"
+        type: "modification"
+        description: "Изменение пункта 1 статьи 1504"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1509"
+        type: "modification"
+        description: "Изменение абзаца первого пункта 3 статьи 1509"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1530"
+        type: "modification"
+        description: "Изменение пункта 1 статьи 1530"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+  - amendment_id: 28
+    date: "2020-07-31"
+    source_document: "Федеральный закон"
+    source_number: "N 262-ФЗ"
+    source_url: "https://www.consultant.ru/document/cons_doc_LAW_358733/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009"
+    changes_count: 15
+    changes:
+      - article: "1246"
+        type: "modification"
+        description: "Изменение пункта 3 статьи 1246"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1246"
+        type: "addition"
+        description: "Дополнение пункта 3 статьи 1246 абзацами."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1378"
+        type: "modification"
+        description: "Абзац второй пункта 1 статьи 1378 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1384"
+        type: "modification"
+        description: "Изменение пункта 1 статьи 1384"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1384"
+        type: "addition"
+        description: "Дополнение статьи 1384 пунктом 6."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1386"
+        type: "modification"
+        description: "Пункт 1 статьи 1386 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1386"
+        type: "modification"
+        description: "Пункт 2 статьи 1386 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1386"
+        type: "deletion"
+        description: "Пункты 3 - 4 статьи 1386 исключены."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1386"
+        type: "modification"
+        description: "Изменение абзаца первого пункта 5 статьи 1386"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1386"
+        type: "modification"
+        description: "Изменение абзаца второго пункта 5 статьи 1386"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1386"
+        type: "modification"
+        description: "Абзац третий пункта 5 статьи 1386 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1390"
+        type: "modification"
+        description: "Пункт 1 статьи 1390 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1394"
+        type: "modification"
+        description: "Пункт 2 статьи 1394 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1366"
+        type: "modification"
+        description: "Изменение абзаца первого пункта 1 статьи 1366"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1366"
+        type: "addition"
+        description: "Дополнение пункта 1 статьи 1366 абзацем."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+  - amendment_id: 29
+    date: "2020-12-22"
+    source_document: "Федеральный закон"
+    source_number: "N 456-ФЗ"
+    source_url: "https://www.consultant.ru/document/cons_doc_LAW_371783/b004fed0b70d0f223e4a81f8ad6cd92af90a7e3b/#dst100014"
+    changes_count: 9
+    changes:
+      - article: "1240"
+        type: "deletion"
+        description: "Пункт 5 статьи 1240 - исключен."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1240.1"
+        type: "addition"
+        description: "Дополнение статьей 1240.1."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: null
+        type: "modification"
+        description: "Статья 1298 - изложена в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1370"
+        type: "modification"
+        description: "Изменение абзаца первого пункта 4 статьи 1370"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1370"
+        type: "modification"
+        description: "Изменение абзаца второго пункта 4 статьи 1370"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1370"
+        type: "addition"
+        description: "Дополнение статьи 1370 пунктом 4.1."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: null
+        type: "modification"
+        description: "Статья 1373 - изложена в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: null
+        type: "modification"
+        description: "Статья 1471 - изложена в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: null
+        type: "deletion"
+        description: "Глава 77 - исключена."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+  - amendment_id: 30
+    date: "2020-12-30"
+    source_document: "Федеральный закон"
+    source_number: "N 527-ФЗ"
+    source_url: "https://www.consultant.ru/document/cons_doc_LAW_372671/#dst100008"
+    changes_count: 1
+    changes:
+      - article: "1422"
+        type: "modification"
+        description: "Изменение подпункта 4 статьи 1422"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+  - amendment_id: 31
+    date: "2021-04-30"
+    source_document: "Федеральный закон"
+    source_number: "N 107-ФЗ"
+    source_url: "https://www.consultant.ru/document/cons_doc_LAW_383347/#dst100008"
+    changes_count: 1
+    changes:
+      - article: null
+        type: "modification"
+        description: "Статья 1360 - изложена в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+  - amendment_id: 32
+    date: "2021-06-11"
+    source_document: "Федеральный закон"
+    source_number: "N 212-ФЗ"
+    source_url: "https://www.consultant.ru/document/cons_doc_LAW_386903/#dst100008"
+    changes_count: 2
+    changes:
+      - article: "1360.1"
+        type: "addition"
+        description: "Дополнение статьей 1360.1."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1439"
+        type: "addition"
+        description: "Дополнение статьи 1439 пунктом 4."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+  - amendment_id: 33
+    date: "2021-06-11"
+    source_document: "Федеральный закон"
+    source_number: "N 213-ФЗ"
+    source_url: "https://www.consultant.ru/document/cons_doc_LAW_386902/#dst100008"
+    changes_count: 2
+    changes:
+      - article: "1360.1"
+        type: "addition"
+        description: "Дополнение статьей 1360.1."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1439"
+        type: "addition"
+        description: "Дополнение статьи 1439 пунктом 4."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+  - amendment_id: 34
+    date: "2022-05-28"
+    source_document: "Федеральный закон"
+    source_number: "N 143-ФЗ"
+    source_url: "https://www.consultant.ru/document/cons_doc_LAW_417864/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009"
+    changes_count: 10
+    changes:
+      - article: "1483"
+        type: "modification"
+        description: "Изменение подпункта 1 пункта 3 статьи 1483"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1483"
+        type: "modification"
+        description: "Пункт 7 статьи 1483 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1488"
+        type: "modification"
+        description: "Изменение пункта 2 статьи 1488"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1488"
+        type: "modification"
+        description: "Изменение пункта 3 статьи 1488"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1489"
+        type: "modification"
+        description: "Изменение пункта 3 статьи 1489"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1499"
+        type: "modification"
+        description: "Изменение абзаца второго пункта 1 статьи 1499"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1499"
+        type: "modification"
+        description: "Изменение подпункта 4 пункта 4 статьи 1499"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1519"
+        type: "modification"
+        description: "Подпункт 3 пункта 3 статьи 1519 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1519"
+        type: "modification"
+        description: "Изменение пункта 4 статьи 1519"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1537"
+        type: "modification"
+        description: "Пункт 1 статьи 1537 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+  - amendment_id: 35
+    date: "2022-06-11"
+    source_document: "Федеральный закон"
+    source_number: "N 176-ФЗ"
+    source_url: "https://www.consultant.ru/document/cons_doc_LAW_419065/#dst100008"
+    changes_count: 1
+    changes:
+      - article: "1274"
+        type: "modification"
+        description: "Пункт 2 статьи 1274 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+  - amendment_id: 36
+    date: "2022-06-28"
+    source_document: "Федеральный закон"
+    source_number: "N 193-ФЗ"
+    source_url: "https://www.consultant.ru/document/cons_doc_LAW_420336/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009"
+    changes_count: 9
+    changes:
+      - article: "1262"
+        type: "modification"
+        description: "Изменение пункта 5 статьи 1262"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1477"
+        type: "modification"
+        description: "Изменение пункта 1 статьи 1477"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1477"
+        type: "modification"
+        description: "Изменение пункта 2 статьи 1477"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: null
+        type: "deletion"
+        description: "Статья 1478 - исключена."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1492"
+        type: "modification"
+        description: "Изменение пункта 1 статьи 1492"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1512"
+        type: "deletion"
+        description: "Подпункт 3 пункта 2 статьи 1512 - исключен."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1512"
+        type: "modification"
+        description: "Изменение абзаца девятого пункта 2 статьи 1512"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1513"
+        type: "modification"
+        description: "Изменение пункта 2 статьи 1513"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1514"
+        type: "modification"
+        description: "Изменение подпункта 4 пункта 1 статьи 1514"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+  - amendment_id: 37
+    date: "2022-07-14"
+    source_document: "Федеральный закон"
+    source_number: "N 354-ФЗ"
+    source_url: "https://www.consultant.ru/document/cons_doc_LAW_421933/#dst100008"
+    changes_count: 1
+    changes:
+      - article: "1263"
+        type: "addition"
+        description: "Дополнение пункта 2 статьи 1263 подпунктом 4."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+  - amendment_id: 38
+    date: "2022-10-07"
+    source_document: "Федеральный закон"
+    source_number: "N 386-ФЗ"
+    source_url: "https://www.consultant.ru/document/cons_doc_LAW_428318/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009"
+    changes_count: 1
+    changes:
+      - article: "1363"
+        type: "modification"
+        description: "Пункт 5 статьи 1363 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+  - amendment_id: 39
+    date: "2022-12-05"
+    source_document: "Федеральный закон"
+    source_number: "N 503-ФЗ"
+    source_url: "https://www.consultant.ru/document/cons_doc_LAW_433278/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009"
+    changes_count: 12
+    changes:
+      - article: "1346"
+        type: "modification"
+        description: "Изменение статьи 1346"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1363"
+        type: "modification"
+        description: "Изменение абзаца второго пункта 5 статьи 1363"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1385"
+        type: "modification"
+        description: "Абзац первый пункта 1 статьи 1385 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1386"
+        type: "modification"
+        description: "Изменение абзаца второго пункта 5 статьи 1386"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1391"
+        type: "addition"
+        description: "Дополнение пункта 2 статьи 1391 абзацами."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1398"
+        type: "addition"
+        description: "Дополнение статьи 1398 пунктом 8."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1517"
+        type: "addition"
+        description: "Дополнение статьи 1517 пунктом 3."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1525"
+        type: "addition"
+        description: "Дополнение пункта 2 статьи 1525 новым абзацем третьим."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1526"
+        type: "modification"
+        description: "Изменение абзаца первого пункта 1 статьи 1526"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1526"
+        type: "modification"
+        description: "Изменение пункта 2 статьи 1526"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1531"
+        type: "addition"
+        description: "Дополнение пункта 1 статьи 1531 абзацем."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1535"
+        type: "addition"
+        description: "Дополнение статьи 1535 пунктом 4."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+  - amendment_id: 40
+    date: "2023-06-13"
+    source_document: "Федеральный закон"
+    source_number: "N 235-ФЗ"
+    source_url: "https://www.consultant.ru/document/cons_doc_LAW_449434/#dst100008"
+    changes_count: 2
+    changes:
+      - article: "1350"
+        type: "modification"
+        description: "Изменение пункта 3 статьи 1350"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1260"
+        type: "addition"
+        description: "Дополнение пункта 4 статьи 1260 абзацем."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+  - amendment_id: 41
+    date: "2024-01-30"
+    source_document: "Федеральный закон"
+    source_number: "N 4-ФЗ"
+    source_url: "https://www.consultant.ru/document/cons_doc_LAW_468342/#dst100008"
+    changes_count: 1
+    changes:
+      - article: "1248"
+        type: "addition"
+        description: "Дополнение пункта 2 статьи 1248 абзацем."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+  - amendment_id: 42
+    date: "2024-07-22"
+    source_document: "Федеральный закон"
+    source_number: "N 190-ФЗ"
+    source_url: "https://www.consultant.ru/document/cons_doc_LAW_481248/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009"
+    changes_count: 11
+    changes:
+      - article: "1243"
+        type: "addition"
+        description: "Дополнение статьи 1243 пунктом 4.1."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1243"
+        type: "addition"
+        description: "Дополнение пункта 5 статьи 1243 абзацами."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1243.1"
+        type: "addition"
+        description: "Дополнение статьей 1243.1."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1244"
+        type: "addition"
+        description: "Дополнение пункта 1 статьи 1244 подпунктом 7."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1244"
+        type: "modification"
+        description: "Пункт 5 статьи 1244 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1244"
+        type: "modification"
+        description: "Изменение пункта 8 статьи 1244"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1244.2"
+        type: "addition"
+        description: "Дополнение статьей 1244.2."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1280.1"
+        type: "addition"
+        description: "Дополнение статьей 1280.1."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1281"
+        type: "addition"
+        description: "Дополнение пункта 2 статьи 1281 абзацем."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1306.1"
+        type: "addition"
+        description: "Дополнение статьей 1306.1."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1499"
+        type: "addition"
+        description: "Дополнение пункта 1 статьи 1499 абзацем."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+  - amendment_id: 43
+    date: "2025-07-07"
+    source_document: "Федеральный закон"
+    source_number: "N 214-ФЗ"
+    source_url: "https://www.consultant.ru/document/cons_doc_LAW_509330/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009"
+    changes_count: 25
+    changes:
+      - article: "1233"
+        type: "modification"
+        description: "Изменение абзаца восьмого пункта 5 статьи 1233"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1250"
+        type: "modification"
+        description: "Изменение абзаца третьего пункта 3 статьи 1250"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1250"
+        type: "modification"
+        description: "Изменение пункта 4 статьи 1250"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1252"
+        type: "modification"
+        description: "Изменение абзаца первого пункта 1 статьи 1252"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1252"
+        type: "modification"
+        description: "Изменение подпункта 3 пункта 1 статьи 1252"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1252"
+        type: "addition"
+        description: "Дополнение статьи 1252 пунктом 1.1."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1252"
+        type: "deletion"
+        description: "Пункт 3 статьи 1252 - исключен."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1252"
+        type: "modification"
+        description: "Изменение пункта 4 статьи 1252"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1252.1"
+        type: "addition"
+        description: "Дополнение статьей 1252.1."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: null
+        type: "modification"
+        description: "Статья 1254 - изложена в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1265"
+        type: "addition"
+        description: "Дополнение статьи 1265 пунктом 3."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1286.1"
+        type: "modification"
+        description: "Изменение пункта 5 статьи 1286.1"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1299"
+        type: "modification"
+        description: "Пункт 3 статьи 1299 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1300"
+        type: "modification"
+        description: "Пункт 3 статьи 1300 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: null
+        type: "modification"
+        description: "Статья 1301 - изложена в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1311"
+        type: "modification"
+        description: "Изменение абзаца первого статьи 1311"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1311"
+        type: "modification"
+        description: "Изменение подпункта 1 пункта 1 статьи 1311"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1311"
+        type: "modification"
+        description: "Изменение подпункта 2 пункта 2 статьи 1311"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1311"
+        type: "modification"
+        description: "Изменение подпункта 3 пункта 3 статьи 1311"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1406.1"
+        type: "modification"
+        description: "Изменение абзаца первого статьи 1406.1"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1406.1"
+        type: "modification"
+        description: "Изменение подпункта 1 пункта 1 статьи 1406.1"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1406.1"
+        type: "modification"
+        description: "Изменение подпункта 2 пункта 2 статьи 1406.1"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1515"
+        type: "modification"
+        description: "Изменение пункта 2 статьи 1515"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1515"
+        type: "modification"
+        description: "Пункт 4 статьи 1515 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1537"
+        type: "modification"
+        description: "Пункт 2 статьи 1537 - изложен в новой редакции"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+  - amendment_id: 44
+    date: "2025-07-23"
+    source_document: "Федеральный закон"
+    source_number: "N 235-ФЗ"
+    source_url: "https://www.consultant.ru/document/cons_doc_LAW_510520/#dst100008"
+    changes_count: 2
+    changes:
+      - article: "1350"
+        type: "modification"
+        description: "Изменение пункта 3 статьи 1350"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1260"
+        type: "addition"
+        description: "Дополнение пункта 4 статьи 1260 абзацем."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+  - amendment_id: 45
+    date: "2016-12-13"
+    source_document: "Постановление Конституционного Суда РФ"
+    source_number: "N 28-П"
+    source_url: "https://www.consultant.ru/document/cons_doc_LAW_208711/#dst100057"
+    changes_count: 0
+    changes: []
+    note: "Детальные изменения в обзоре редакций не выделены (см. источник)"
+  - amendment_id: 46
+    date: "2020-07-24"
+    source_document: "Постановление Конституционного Суда РФ"
+    source_number: "N 40-П"
+    source_url: "https://www.consultant.ru/document/cons_doc_LAW_358359/#dst100054"
+    changes_count: 0
+    changes: []
+    note: "Детальные изменения в обзоре редакций не выделены (см. источник)"
+  - amendment_id: 47
+    date: "2022-06-16"
+    source_document: "Постановление Конституционного Суда РФ"
+    source_number: "N 25-П"
+    source_url: "https://www.consultant.ru/document/cons_doc_LAW_419677/#dst100051"
+    changes_count: 0
+    changes: []
+    note: "Детальные изменения в обзоре редакций не выделены (см. источник)"
+  - amendment_id: 48
+    date: "2023-01-10"
+    source_document: "Постановление Конституционного Суда РФ"
+    source_number: "N 1-П"
+    source_url: "https://www.consultant.ru/document/cons_doc_LAW_437257/#dst100050"
+    changes_count: 0
+    changes: []
+    note: "Детальные изменения в обзоре редакций не выделены (см. источник)"
+  - amendment_id: 49
+    date: "2023-12-14"
+    source_document: "Постановление Конституционного Суда РФ"
+    source_number: "N 57-П"
+    source_url: "https://www.consultant.ru/document/cons_doc_LAW_464376/#dst100064"
+    changes_count: 0
+    changes: []
+    note: "Детальные изменения в обзоре редакций не выделены (см. источник)"
+  - amendment_id: 50
+    date: "2026-08-04"
+    source_document: "Федеральный закон"
+    source_number: "N 296-ФЗ"
+    source_url: "https://www.consultant.ru/document/cons_doc_LAW_541083/"
+    changes_count: 6
+    changes:
+      - article: "1261"
+        type: "modification"
+        description: "Изменение статьи 1261"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1350"
+        type: "modification"
+        description: "Изменение абзаца первого пункта 1 статьи 1350"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1350"
+        type: "addition"
+        description: "Дополнение пункта 1 статьи 1350 новым абзацем вторым."
+        original_text: null
+        new_text: null
+        new_redaction_text_available: false
+      - article: "1351"
+        type: "modification"
+        description: "Изменение абзаца первого пункта 1 статьи 1351"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1352"
+        type: "modification"
+        description: "Изменение абзаца первого пункта 1 статьи 1352"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+      - article: "1358"
+        type: "modification"
+        description: "Изменение подпункта 3 пункта 2 статьи 1358"
+        original_text: null
+        new_text: null
+        new_redaction_text_available: true
+summary:
+  total_amendments: 50
+  federal_laws_count: 45
+  constitutional_court_rulings_count: 5
+  date_range: "2007-12-01 - 2026-08-04"
+  total_changes_extracted: 278
+  unique_change_blocks: 271
+  most_modified_articles:
+    - article: "1252"
+      changes_count: 13
+    - article: "1244"
+      changes_count: 8
+    - article: "1243"
+      changes_count: 7
+    - article: "1386"
+      changes_count: 7
+    - article: "1262"
+      changes_count: 6
+  top_amendments_by_volume:
+    - date: "2014-03-12"
+      source: "N 35-ФЗ"
+      changes_count: 57
+    - date: "2019-07-26"
+      source: "N 230-ФЗ"
+      changes_count: 34
+    - date: "2025-07-07"
+      source: "N 214-ФЗ"
+      changes_count: 25
+  key_changes: "Ключевые реформы части четвёртой ГК РФ: введение («антипиратских» норм и обеспечительных мер — ФЗ от 02.07.2013 N 187-ФЗ и от 12.03.2014 N 35-ФЗ; масштабное обновление норм о государственной регистрации и распоряжении правами — ФЗ от 12.03.2014 N 35-ФЗ и ФЗ от 26.07.2019 N 230-ФЗ; уточнение порядка и размеров компенсации за нарушение исключительных прав — ФЗ от 07.07.2025 N 214-ФЗ."
+notes:
+  - "Изменения выявлены по официальному списку изменяющих документов и по 46 обзорам редакций КонсультантПлюс."
+  - "Поля original_text/new_text не заполнены автоматически (двухколоночный формат обзора); тексты доступны по ссылкам new_redaction. Требуется доработка извлечения."
+  - "Для постановлений Конституционного Суда РФ детальные изменения в обзорах не выделены."
+  - "total_changes_extracted включает повторный учёт изменений законов, вносивших правки совместно (напр. от 11.06.2021 N 212-ФЗ и N 213-ФЗ); unique_change_blocks = число уникальных блоков в обзорах редакций."

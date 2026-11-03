@@ -1,0 +1,25 @@
+{
+    "session_metadata":  {
+                             "document_analyzed":  "Гражданский кодекс РФ (часть четвёртая), от 18.12.2006 N 230-ФЗ",
+                             "session_date":  "2026-10-09",
+                             "expert_iterations":  1,
+                             "status":  "pending_review"
+                         },
+    "conversation_history":  [
+                                 {
+                                     "turn_id":  1,
+                                     "role":  "user",
+                                     "message":  "Извлеки полную историю правок из НПА: https://www.consultant.ru/document/cons_doc_LAW_64629/4f084f0ca9455af0c226715f0cc1ca3059d43411/ — сохранить в YAML, вывести ключевые поля, итерировать по обратной связи, затем сохранить сессию в YAML и JSON."
+                                 },
+                                 {
+                                     "turn_id":  2,
+                                     "role":  "assistant",
+                                     "message":  "Определён документ (ГК РФ ч.4). Собран официальный список изменяющих документов (49) и разобраны 46 обзоров редакций. Сформирован файл gk_rf_chast4_history.yaml: 50 правок, 278 записей об изменениях. Ключевые поля выведены."
+                                 }
+                             ],
+    "final_validation":  {
+                             "status":  "pending_review",
+                             "quality_score":  null,
+                             "notes":  "Ожидается обратная связь эксперта; план доработки: заполнить original_text/new_text, уточнить охват изменений по каждому документу."
+                         }
+}
